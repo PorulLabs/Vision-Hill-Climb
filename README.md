@@ -44,3 +44,6 @@ The repository includes several scripts that show the progression of the control
 
 ## Disclaimer
 When using PyAutoGUI, ensure you have an emergency way to stop the script (you can usually drag your mouse to a corner of the screen to trigger PyAutoGUI's failsafe, or press `ESC` while focused on the webcam window).
+
+## Author
+Connect with me on LinkedIn: [Srinath Krishnakumar](https://www.linkedin.com/in/srinath-krishnakumaranalyst/)
